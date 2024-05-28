@@ -1,0 +1,12 @@
+E:\work\游戏配置获取\YongJieWuJianSetting\bin\Debug\net46\YongJieWuJianSetting.dll
+E:\work\游戏配置获取\YongJieWuJianSetting\bin\Debug\net46\YongJieWuJianSetting.pdb
+E:\work\游戏配置获取\YongJieWuJianSetting\bin\Debug\net46\Com.YTDB.JLAI.GameConfigurations.dll
+E:\work\游戏配置获取\YongJieWuJianSetting\bin\Debug\net46\Newtonsoft.Json.dll
+E:\work\游戏配置获取\YongJieWuJianSetting\obj\Debug\net46\YongJieWuJianSetting.csproj.AssemblyReference.cache
+E:\work\游戏配置获取\YongJieWuJianSetting\obj\Debug\net46\YongJieWuJianSetting.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\游戏配置获取\YongJieWuJianSetting\obj\Debug\net46\YongJieWuJianSetting.AssemblyInfoInputs.cache
+E:\work\游戏配置获取\YongJieWuJianSetting\obj\Debug\net46\YongJieWuJianSetting.AssemblyInfo.cs
+E:\work\游戏配置获取\YongJieWuJianSetting\obj\Debug\net46\YongJieWuJianSetting.csproj.CoreCompileInputs.cache
+E:\work\游戏配置获取\YongJieWuJianSetting\obj\Debug\net46\YongJieW.063E187D.Up2Date
+E:\work\游戏配置获取\YongJieWuJianSetting\obj\Debug\net46\YongJieWuJianSetting.dll
+E:\work\游戏配置获取\YongJieWuJianSetting\obj\Debug\net46\YongJieWuJianSetting.pdb

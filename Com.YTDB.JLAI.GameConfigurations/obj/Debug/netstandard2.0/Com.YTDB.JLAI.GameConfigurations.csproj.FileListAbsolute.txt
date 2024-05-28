@@ -1,0 +1,14 @@
+D:\C#\游戏配置获取\Com.YTDB.JLAI.GameConfigurations\bin\Debug\netstandard2.0\Com.YTDB.JLAI.GameConfigurations.deps.json
+D:\C#\游戏配置获取\Com.YTDB.JLAI.GameConfigurations\bin\Debug\netstandard2.0\Com.YTDB.JLAI.GameConfigurations.dll
+D:\C#\游戏配置获取\Com.YTDB.JLAI.GameConfigurations\bin\Debug\netstandard2.0\Com.YTDB.JLAI.GameConfigurations.pdb
+D:\C#\游戏配置获取\Com.YTDB.JLAI.GameConfigurations\bin\Debug\netstandard2.0\Com.YTDB.JLAI.GameConfigurations.xml
+D:\C#\游戏配置获取\Com.YTDB.JLAI.GameConfigurations\obj\Debug\netstandard2.0\Com.YTDB.JLAI.GameConfigurations.csproj.AssemblyReference.cache
+D:\C#\游戏配置获取\Com.YTDB.JLAI.GameConfigurations\obj\Debug\netstandard2.0\Com.YTDB.JLAI.GameConfigurations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\游戏配置获取\Com.YTDB.JLAI.GameConfigurations\obj\Debug\netstandard2.0\Com.YTDB.JLAI.GameConfigurations.AssemblyInfoInputs.cache
+D:\C#\游戏配置获取\Com.YTDB.JLAI.GameConfigurations\obj\Debug\netstandard2.0\Com.YTDB.JLAI.GameConfigurations.AssemblyInfo.cs
+D:\C#\游戏配置获取\Com.YTDB.JLAI.GameConfigurations\obj\Debug\netstandard2.0\Com.YTDB.JLAI.GameConfigurations.csproj.CoreCompileInputs.cache
+D:\C#\游戏配置获取\Com.YTDB.JLAI.GameConfigurations\obj\Debug\netstandard2.0\Com.YTDB.JLAI.GameConfigurations.dll
+D:\C#\游戏配置获取\Com.YTDB.JLAI.GameConfigurations\obj\Debug\netstandard2.0\refint\Com.YTDB.JLAI.GameConfigurations.dll
+D:\C#\游戏配置获取\Com.YTDB.JLAI.GameConfigurations\obj\Debug\netstandard2.0\Com.YTDB.JLAI.GameConfigurations.xml
+D:\C#\游戏配置获取\Com.YTDB.JLAI.GameConfigurations\obj\Debug\netstandard2.0\Com.YTDB.JLAI.GameConfigurations.pdb
+D:\C#\游戏配置获取\Com.YTDB.JLAI.GameConfigurations\obj\Debug\netstandard2.0\ref\Com.YTDB.JLAI.GameConfigurations.dll

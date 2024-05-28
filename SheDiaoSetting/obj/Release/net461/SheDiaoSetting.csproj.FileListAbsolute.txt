@@ -1,0 +1,13 @@
+D:\C#\游戏配置获取\SheDiaoSetting\bin\Release\net461\SheDiaoSetting.dll
+D:\C#\游戏配置获取\SheDiaoSetting\bin\Release\net461\SheDiaoSetting.pdb
+D:\C#\游戏配置获取\SheDiaoSetting\bin\Release\net461\Com.YTDB.IniOperation.dll
+D:\C#\游戏配置获取\SheDiaoSetting\bin\Release\net461\Com.YTDB.JLAI.GameConfigurations.dll
+D:\C#\游戏配置获取\SheDiaoSetting\bin\Release\net461\Newtonsoft.Json.dll
+D:\C#\游戏配置获取\SheDiaoSetting\obj\Release\net461\SheDiaoSetting.csproj.AssemblyReference.cache
+D:\C#\游戏配置获取\SheDiaoSetting\obj\Release\net461\SheDiaoSetting.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\游戏配置获取\SheDiaoSetting\obj\Release\net461\SheDiaoSetting.AssemblyInfoInputs.cache
+D:\C#\游戏配置获取\SheDiaoSetting\obj\Release\net461\SheDiaoSetting.AssemblyInfo.cs
+D:\C#\游戏配置获取\SheDiaoSetting\obj\Release\net461\SheDiaoSetting.csproj.CoreCompileInputs.cache
+D:\C#\游戏配置获取\SheDiaoSetting\obj\Release\net461\SheDiaoS.8979E361.Up2Date
+D:\C#\游戏配置获取\SheDiaoSetting\obj\Release\net461\SheDiaoSetting.dll
+D:\C#\游戏配置获取\SheDiaoSetting\obj\Release\net461\SheDiaoSetting.pdb

@@ -1,0 +1,12 @@
+D:\C#\游戏配置获取\YongJieWuJianSetting\bin\Release\net48\YongJieWuJianSetting.dll
+D:\C#\游戏配置获取\YongJieWuJianSetting\bin\Release\net48\YongJieWuJianSetting.pdb
+D:\C#\游戏配置获取\YongJieWuJianSetting\bin\Release\net48\Com.YTDB.JLAI.GameConfigurations.dll
+D:\C#\游戏配置获取\YongJieWuJianSetting\bin\Release\net48\Newtonsoft.Json.dll
+D:\C#\游戏配置获取\YongJieWuJianSetting\obj\Release\net48\YongJieWuJianSetting.csproj.AssemblyReference.cache
+D:\C#\游戏配置获取\YongJieWuJianSetting\obj\Release\net48\YongJieWuJianSetting.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\游戏配置获取\YongJieWuJianSetting\obj\Release\net48\YongJieWuJianSetting.AssemblyInfoInputs.cache
+D:\C#\游戏配置获取\YongJieWuJianSetting\obj\Release\net48\YongJieWuJianSetting.AssemblyInfo.cs
+D:\C#\游戏配置获取\YongJieWuJianSetting\obj\Release\net48\YongJieWuJianSetting.csproj.CoreCompileInputs.cache
+D:\C#\游戏配置获取\YongJieWuJianSetting\obj\Release\net48\YongJieW.063E187D.Up2Date
+D:\C#\游戏配置获取\YongJieWuJianSetting\obj\Release\net48\YongJieWuJianSetting.dll
+D:\C#\游戏配置获取\YongJieWuJianSetting\obj\Release\net48\YongJieWuJianSetting.pdb

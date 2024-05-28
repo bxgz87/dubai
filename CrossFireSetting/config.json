@@ -1,0 +1,8 @@
+{
+  "Version": "10000",
+  "GameName": "穿越火线",
+  "Title": "穿越火线设置",
+  "Author": "精灵AI",
+  "Notes": "获取穿越火线的配置",
+  "MainDLL": "CrossFireSetting.dll"
+}

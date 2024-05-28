@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFrameworks>net46;net461;net48</TargetFrameworks>
+	</PropertyGroup>
+	
+  <PropertyGroup>
+	  <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <RootNamespace>GameConfigurations</RootNamespace>
+  </PropertyGroup>
+
+
+	<PropertyGroup>
+		<!--包信息-->
+		<PackageId>Com.YTDB.JLAI.GameConfigurations</PackageId>
+		<Version>1.0.0.7</Version>
+		<Authors>Schnee</Authors>
+		<Company>烟台独白网络科技有限公司</Company>
+		<Description>精灵AI的游戏设置功能</Description>
+		<PackageReleaseNotes></PackageReleaseNotes>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<GenerateDocumentationFile>True</GenerateDocumentationFile>
+		<ProduceReferenceAssembly>True</ProduceReferenceAssembly>
+	</PropertyGroup>
+
+
+	<ItemGroup>
+	  <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Com.YTDB.JLAI.GameConfigurations</id>
+    <version>1.0.0</version>
+    <authors>Schnee</authors>
+    <description>精灵AI的游戏设置功能</description>
+    <repository type="git" commit="74e374285691704a8b064995cf1eb0e947a28ab6" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.8">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Shared-Commons\Com.YTDB.JLAI.GameConfigurations\bin\Release\net46\Com.YTDB.JLAI.GameConfigurations.dll" target="lib\net46\Com.YTDB.JLAI.GameConfigurations.dll" />
+    <file src="D:\Shared-Commons\Com.YTDB.JLAI.GameConfigurations\bin\Release\net46\Com.YTDB.JLAI.GameConfigurations.xml" target="lib\net46\Com.YTDB.JLAI.GameConfigurations.xml" />
+    <file src="D:\Shared-Commons\Com.YTDB.JLAI.GameConfigurations\bin\Release\net461\Com.YTDB.JLAI.GameConfigurations.dll" target="lib\net461\Com.YTDB.JLAI.GameConfigurations.dll" />
+    <file src="D:\Shared-Commons\Com.YTDB.JLAI.GameConfigurations\bin\Release\net461\Com.YTDB.JLAI.GameConfigurations.xml" target="lib\net461\Com.YTDB.JLAI.GameConfigurations.xml" />
+    <file src="D:\Shared-Commons\Com.YTDB.JLAI.GameConfigurations\bin\Release\net48\Com.YTDB.JLAI.GameConfigurations.dll" target="lib\net48\Com.YTDB.JLAI.GameConfigurations.dll" />
+    <file src="D:\Shared-Commons\Com.YTDB.JLAI.GameConfigurations\bin\Release\net48\Com.YTDB.JLAI.GameConfigurations.xml" target="lib\net48\Com.YTDB.JLAI.GameConfigurations.xml" />
+  </files>
+</package>

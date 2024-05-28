@@ -1,0 +1,5 @@
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net48\setYongJieWuJianSetting.csproj.AssemblyReference.cache
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net48\setYongJieWuJianSetting.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net48\setYongJieWuJianSetting.AssemblyInfoInputs.cache
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net48\setYongJieWuJianSetting.AssemblyInfo.cs
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net48\setYongJieWuJianSetting.csproj.CoreCompileInputs.cache

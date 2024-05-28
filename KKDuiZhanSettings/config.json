@@ -1,0 +1,8 @@
+{
+  "Version": "10000",
+  "GameName": "KK对战平台",
+  "Title": "对战平台设置",
+  "Author": "精灵AI",
+  "Notes": "",
+  "MainDLL": "KKDuiZhanSettings.dll"
+}

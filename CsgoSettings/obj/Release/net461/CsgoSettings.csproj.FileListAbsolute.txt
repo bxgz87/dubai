@@ -1,0 +1,12 @@
+D:\C#\游戏配置获取\CsgoSettings\bin\Release\net461\CsgoSettings.dll
+D:\C#\游戏配置获取\CsgoSettings\bin\Release\net461\CsgoSettings.pdb
+D:\C#\游戏配置获取\CsgoSettings\bin\Release\net461\Com.YTDB.JLAI.GameConfigurations.dll
+D:\C#\游戏配置获取\CsgoSettings\bin\Release\net461\Newtonsoft.Json.dll
+D:\C#\游戏配置获取\CsgoSettings\obj\Release\net461\CsgoSettings.csproj.AssemblyReference.cache
+D:\C#\游戏配置获取\CsgoSettings\obj\Release\net461\CsgoSettings.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\游戏配置获取\CsgoSettings\obj\Release\net461\CsgoSettings.AssemblyInfoInputs.cache
+D:\C#\游戏配置获取\CsgoSettings\obj\Release\net461\CsgoSettings.AssemblyInfo.cs
+D:\C#\游戏配置获取\CsgoSettings\obj\Release\net461\CsgoSettings.csproj.CoreCompileInputs.cache
+D:\C#\游戏配置获取\CsgoSettings\obj\Release\net461\CsgoSett.838BB0F8.Up2Date
+D:\C#\游戏配置获取\CsgoSettings\obj\Release\net461\CsgoSettings.dll
+D:\C#\游戏配置获取\CsgoSettings\obj\Release\net461\CsgoSettings.pdb

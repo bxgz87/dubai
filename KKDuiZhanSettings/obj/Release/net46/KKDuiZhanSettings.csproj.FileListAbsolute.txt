@@ -1,0 +1,12 @@
+D:\C#\游戏配置获取\KKDuiZhanSettings\bin\Release\net46\KKDuiZhanSettings.dll
+D:\C#\游戏配置获取\KKDuiZhanSettings\bin\Release\net46\KKDuiZhanSettings.pdb
+D:\C#\游戏配置获取\KKDuiZhanSettings\bin\Release\net46\Com.YTDB.JLAI.GameConfigurations.dll
+D:\C#\游戏配置获取\KKDuiZhanSettings\bin\Release\net46\Newtonsoft.Json.dll
+D:\C#\游戏配置获取\KKDuiZhanSettings\obj\Release\net46\KKDuiZhanSettings.csproj.AssemblyReference.cache
+D:\C#\游戏配置获取\KKDuiZhanSettings\obj\Release\net46\KKDuiZhanSettings.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\游戏配置获取\KKDuiZhanSettings\obj\Release\net46\KKDuiZhanSettings.AssemblyInfoInputs.cache
+D:\C#\游戏配置获取\KKDuiZhanSettings\obj\Release\net46\KKDuiZhanSettings.AssemblyInfo.cs
+D:\C#\游戏配置获取\KKDuiZhanSettings\obj\Release\net46\KKDuiZhanSettings.csproj.CoreCompileInputs.cache
+D:\C#\游戏配置获取\KKDuiZhanSettings\obj\Release\net46\KKDuiZha.C679E77F.Up2Date
+D:\C#\游戏配置获取\KKDuiZhanSettings\obj\Release\net46\KKDuiZhanSettings.dll
+D:\C#\游戏配置获取\KKDuiZhanSettings\obj\Release\net46\KKDuiZhanSettings.pdb

@@ -1,0 +1,12 @@
+E:\work\游戏配置获取\CsgoSettings\bin\Debug\net48\CsgoSettings.dll
+E:\work\游戏配置获取\CsgoSettings\bin\Debug\net48\CsgoSettings.pdb
+E:\work\游戏配置获取\CsgoSettings\bin\Debug\net48\Com.YTDB.JLAI.GameConfigurations.dll
+E:\work\游戏配置获取\CsgoSettings\bin\Debug\net48\Newtonsoft.Json.dll
+E:\work\游戏配置获取\CsgoSettings\obj\Debug\net48\CsgoSettings.csproj.AssemblyReference.cache
+E:\work\游戏配置获取\CsgoSettings\obj\Debug\net48\CsgoSettings.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\游戏配置获取\CsgoSettings\obj\Debug\net48\CsgoSettings.AssemblyInfoInputs.cache
+E:\work\游戏配置获取\CsgoSettings\obj\Debug\net48\CsgoSettings.AssemblyInfo.cs
+E:\work\游戏配置获取\CsgoSettings\obj\Debug\net48\CsgoSettings.csproj.CoreCompileInputs.cache
+E:\work\游戏配置获取\CsgoSettings\obj\Debug\net48\CsgoSett.838BB0F8.Up2Date
+E:\work\游戏配置获取\CsgoSettings\obj\Debug\net48\CsgoSettings.dll
+E:\work\游戏配置获取\CsgoSettings\obj\Debug\net48\CsgoSettings.pdb

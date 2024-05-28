@@ -1,0 +1,8 @@
+{
+  "Version": "10000",
+  "GameName": "英雄联盟",
+  "Title": "英雄联盟设置",
+  "Author": "精灵AI",
+  "Notes": "",
+  "MainDLL": "LeagueOfLegendsSetting.dll"
+}

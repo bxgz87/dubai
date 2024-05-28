@@ -1,0 +1,13 @@
+E:\work\游戏配置获取\CrossFireSetting\bin\Debug\net48\CrossFireSetting.dll
+E:\work\游戏配置获取\CrossFireSetting\bin\Debug\net48\CrossFireSetting.pdb
+E:\work\游戏配置获取\CrossFireSetting\bin\Debug\net48\Com.YTDB.IniOperation.dll
+E:\work\游戏配置获取\CrossFireSetting\bin\Debug\net48\Com.YTDB.JLAI.GameConfigurations.dll
+E:\work\游戏配置获取\CrossFireSetting\bin\Debug\net48\Newtonsoft.Json.dll
+E:\work\游戏配置获取\CrossFireSetting\obj\Debug\net48\CrossFireSetting.csproj.AssemblyReference.cache
+E:\work\游戏配置获取\CrossFireSetting\obj\Debug\net48\CrossFireSetting.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\游戏配置获取\CrossFireSetting\obj\Debug\net48\CrossFireSetting.AssemblyInfoInputs.cache
+E:\work\游戏配置获取\CrossFireSetting\obj\Debug\net48\CrossFireSetting.AssemblyInfo.cs
+E:\work\游戏配置获取\CrossFireSetting\obj\Debug\net48\CrossFireSetting.csproj.CoreCompileInputs.cache
+E:\work\游戏配置获取\CrossFireSetting\obj\Debug\net48\CrossFir.6997CC3F.Up2Date
+E:\work\游戏配置获取\CrossFireSetting\obj\Debug\net48\CrossFireSetting.dll
+E:\work\游戏配置获取\CrossFireSetting\obj\Debug\net48\CrossFireSetting.pdb

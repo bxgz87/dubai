@@ -1,0 +1,13 @@
+D:\C#\游戏配置获取\LeagueOfLegendsSetting\bin\Release\net48\LeagueOfLegendsSetting.dll
+D:\C#\游戏配置获取\LeagueOfLegendsSetting\bin\Release\net48\LeagueOfLegendsSetting.pdb
+D:\C#\游戏配置获取\LeagueOfLegendsSetting\bin\Release\net48\Com.YTDB.IniOperation.dll
+D:\C#\游戏配置获取\LeagueOfLegendsSetting\bin\Release\net48\Com.YTDB.JLAI.GameConfigurations.dll
+D:\C#\游戏配置获取\LeagueOfLegendsSetting\bin\Release\net48\Newtonsoft.Json.dll
+D:\C#\游戏配置获取\LeagueOfLegendsSetting\obj\Release\net48\LeagueOfLegendsSetting.csproj.AssemblyReference.cache
+D:\C#\游戏配置获取\LeagueOfLegendsSetting\obj\Release\net48\LeagueOfLegendsSetting.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\游戏配置获取\LeagueOfLegendsSetting\obj\Release\net48\LeagueOfLegendsSetting.AssemblyInfoInputs.cache
+D:\C#\游戏配置获取\LeagueOfLegendsSetting\obj\Release\net48\LeagueOfLegendsSetting.AssemblyInfo.cs
+D:\C#\游戏配置获取\LeagueOfLegendsSetting\obj\Release\net48\LeagueOfLegendsSetting.csproj.CoreCompileInputs.cache
+D:\C#\游戏配置获取\LeagueOfLegendsSetting\obj\Release\net48\LeagueOf.EF1D16F8.Up2Date
+D:\C#\游戏配置获取\LeagueOfLegendsSetting\obj\Release\net48\LeagueOfLegendsSetting.dll
+D:\C#\游戏配置获取\LeagueOfLegendsSetting\obj\Release\net48\LeagueOfLegendsSetting.pdb

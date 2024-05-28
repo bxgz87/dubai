@@ -1,0 +1,16 @@
+E:\work\游戏配置获取\setYongJieWuJianSetting\bin\Debug\net8.0\setYongJieWuJianSetting.deps.json
+E:\work\游戏配置获取\setYongJieWuJianSetting\bin\Debug\net8.0\setYongJieWuJianSetting.dll
+E:\work\游戏配置获取\setYongJieWuJianSetting\bin\Debug\net8.0\setYongJieWuJianSetting.pdb
+E:\work\游戏配置获取\setYongJieWuJianSetting\bin\Debug\net8.0\Com.YTDB.JLAI.GameConfigurations.dll
+E:\work\游戏配置获取\setYongJieWuJianSetting\bin\Debug\net8.0\Com.YTDB.JLAI.GameConfigurations.pdb
+E:\work\游戏配置获取\setYongJieWuJianSetting\bin\Debug\net8.0\Com.YTDB.JLAI.GameConfigurations.xml
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net8.0\setYongJieWuJianSetting.csproj.AssemblyReference.cache
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net8.0\setYongJieWuJianSetting.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net8.0\setYongJieWuJianSetting.AssemblyInfoInputs.cache
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net8.0\setYongJieWuJianSetting.AssemblyInfo.cs
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net8.0\setYongJieWuJianSetting.csproj.CoreCompileInputs.cache
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net8.0\setYongJ.DCA367A5.Up2Date
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net8.0\setYongJieWuJianSetting.dll
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net8.0\refint\setYongJieWuJianSetting.dll
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net8.0\setYongJieWuJianSetting.pdb
+E:\work\游戏配置获取\setYongJieWuJianSetting\obj\Debug\net8.0\ref\setYongJieWuJianSetting.dll

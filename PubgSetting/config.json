@@ -1,0 +1,8 @@
+{
+  "Version": "10000",
+  "GameName": "绝地求生大逃杀",
+  "Title": "绝地求生大逃杀设置",
+  "Author": "精灵AI",
+  "Notes": "",
+  "MainDLL": "PubgSetting.dll"
+}

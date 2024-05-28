@@ -1,0 +1,5 @@
+D:\C#\游戏配置获取\CrossFireSetting\obj\Debug\net6.0\CrossFireSetting.csproj.AssemblyReference.cache
+D:\C#\游戏配置获取\CrossFireSetting\obj\Debug\net6.0\CrossFireSetting.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\游戏配置获取\CrossFireSetting\obj\Debug\net6.0\CrossFireSetting.AssemblyInfoInputs.cache
+D:\C#\游戏配置获取\CrossFireSetting\obj\Debug\net6.0\CrossFireSetting.AssemblyInfo.cs
+D:\C#\游戏配置获取\CrossFireSetting\obj\Debug\net6.0\CrossFireSetting.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+D:\C#\游戏配置获取\ValorantSetting\bin\Release\net46\ValorantSetting.dll
+D:\C#\游戏配置获取\ValorantSetting\bin\Release\net46\ValorantSetting.pdb
+D:\C#\游戏配置获取\ValorantSetting\bin\Release\net46\Com.YTDB.IniOperation.dll
+D:\C#\游戏配置获取\ValorantSetting\bin\Release\net46\Com.YTDB.JLAI.GameConfigurations.dll
+D:\C#\游戏配置获取\ValorantSetting\bin\Release\net46\Newtonsoft.Json.dll
+D:\C#\游戏配置获取\ValorantSetting\obj\Release\net46\ValorantSetting.csproj.AssemblyReference.cache
+D:\C#\游戏配置获取\ValorantSetting\obj\Release\net46\ValorantSetting.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\游戏配置获取\ValorantSetting\obj\Release\net46\ValorantSetting.AssemblyInfoInputs.cache
+D:\C#\游戏配置获取\ValorantSetting\obj\Release\net46\ValorantSetting.AssemblyInfo.cs
+D:\C#\游戏配置获取\ValorantSetting\obj\Release\net46\ValorantSetting.csproj.CoreCompileInputs.cache
+D:\C#\游戏配置获取\ValorantSetting\obj\Release\net46\Valorant.46DCD641.Up2Date
+D:\C#\游戏配置获取\ValorantSetting\obj\Release\net46\ValorantSetting.dll
+D:\C#\游戏配置获取\ValorantSetting\obj\Release\net46\ValorantSetting.pdb

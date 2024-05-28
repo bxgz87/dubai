@@ -1,0 +1,8 @@
+{
+  "Version": "10000",
+  "GameName": "CsGo",
+  "Title": "Csgo设置",
+  "Author": "精灵AI",
+  "Notes": "",
+  "MainDLL": "CsgoSettings.dll"
+}

@@ -1,0 +1,13 @@
+E:\work\游戏配置获取\LeagueOfLegendsSetting\bin\Debug\net46\LeagueOfLegendsSetting.dll
+E:\work\游戏配置获取\LeagueOfLegendsSetting\bin\Debug\net46\LeagueOfLegendsSetting.pdb
+E:\work\游戏配置获取\LeagueOfLegendsSetting\bin\Debug\net46\Com.YTDB.IniOperation.dll
+E:\work\游戏配置获取\LeagueOfLegendsSetting\bin\Debug\net46\Com.YTDB.JLAI.GameConfigurations.dll
+E:\work\游戏配置获取\LeagueOfLegendsSetting\bin\Debug\net46\Newtonsoft.Json.dll
+E:\work\游戏配置获取\LeagueOfLegendsSetting\obj\Debug\net46\LeagueOfLegendsSetting.csproj.AssemblyReference.cache
+E:\work\游戏配置获取\LeagueOfLegendsSetting\obj\Debug\net46\LeagueOfLegendsSetting.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\游戏配置获取\LeagueOfLegendsSetting\obj\Debug\net46\LeagueOfLegendsSetting.AssemblyInfoInputs.cache
+E:\work\游戏配置获取\LeagueOfLegendsSetting\obj\Debug\net46\LeagueOfLegendsSetting.AssemblyInfo.cs
+E:\work\游戏配置获取\LeagueOfLegendsSetting\obj\Debug\net46\LeagueOfLegendsSetting.csproj.CoreCompileInputs.cache
+E:\work\游戏配置获取\LeagueOfLegendsSetting\obj\Debug\net46\LeagueOf.EF1D16F8.Up2Date
+E:\work\游戏配置获取\LeagueOfLegendsSetting\obj\Debug\net46\LeagueOfLegendsSetting.dll
+E:\work\游戏配置获取\LeagueOfLegendsSetting\obj\Debug\net46\LeagueOfLegendsSetting.pdb

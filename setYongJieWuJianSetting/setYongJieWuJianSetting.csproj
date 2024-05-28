@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Com.YTDB.JLAI.GameConfigurations">
+      <HintPath>..\Com.YTDB.JLAI.GameConfigurations\bin\Debug\net48\Com.YTDB.JLAI.GameConfigurations.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

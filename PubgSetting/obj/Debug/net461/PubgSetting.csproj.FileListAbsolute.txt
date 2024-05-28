@@ -1,0 +1,13 @@
+E:\work\游戏配置获取\PubgSetting\bin\Debug\net461\PubgSetting.dll
+E:\work\游戏配置获取\PubgSetting\bin\Debug\net461\PubgSetting.pdb
+E:\work\游戏配置获取\PubgSetting\bin\Debug\net461\Com.YTDB.IniOperation.dll
+E:\work\游戏配置获取\PubgSetting\bin\Debug\net461\Com.YTDB.JLAI.GameConfigurations.dll
+E:\work\游戏配置获取\PubgSetting\bin\Debug\net461\Newtonsoft.Json.dll
+E:\work\游戏配置获取\PubgSetting\obj\Debug\net461\PubgSetting.csproj.AssemblyReference.cache
+E:\work\游戏配置获取\PubgSetting\obj\Debug\net461\PubgSetting.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\游戏配置获取\PubgSetting\obj\Debug\net461\PubgSetting.AssemblyInfoInputs.cache
+E:\work\游戏配置获取\PubgSetting\obj\Debug\net461\PubgSetting.AssemblyInfo.cs
+E:\work\游戏配置获取\PubgSetting\obj\Debug\net461\PubgSetting.csproj.CoreCompileInputs.cache
+E:\work\游戏配置获取\PubgSetting\obj\Debug\net461\PubgSett.27B45CCD.Up2Date
+E:\work\游戏配置获取\PubgSetting\obj\Debug\net461\PubgSetting.dll
+E:\work\游戏配置获取\PubgSetting\obj\Debug\net461\PubgSetting.pdb

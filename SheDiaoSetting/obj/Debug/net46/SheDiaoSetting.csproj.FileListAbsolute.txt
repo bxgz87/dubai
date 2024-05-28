@@ -1,0 +1,13 @@
+E:\work\游戏配置获取\SheDiaoSetting\bin\Debug\net46\SheDiaoSetting.dll
+E:\work\游戏配置获取\SheDiaoSetting\bin\Debug\net46\SheDiaoSetting.pdb
+E:\work\游戏配置获取\SheDiaoSetting\bin\Debug\net46\Com.YTDB.IniOperation.dll
+E:\work\游戏配置获取\SheDiaoSetting\bin\Debug\net46\Com.YTDB.JLAI.GameConfigurations.dll
+E:\work\游戏配置获取\SheDiaoSetting\bin\Debug\net46\Newtonsoft.Json.dll
+E:\work\游戏配置获取\SheDiaoSetting\obj\Debug\net46\SheDiaoSetting.csproj.AssemblyReference.cache
+E:\work\游戏配置获取\SheDiaoSetting\obj\Debug\net46\SheDiaoSetting.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\游戏配置获取\SheDiaoSetting\obj\Debug\net46\SheDiaoSetting.AssemblyInfoInputs.cache
+E:\work\游戏配置获取\SheDiaoSetting\obj\Debug\net46\SheDiaoSetting.AssemblyInfo.cs
+E:\work\游戏配置获取\SheDiaoSetting\obj\Debug\net46\SheDiaoSetting.csproj.CoreCompileInputs.cache
+E:\work\游戏配置获取\SheDiaoSetting\obj\Debug\net46\SheDiaoS.8979E361.Up2Date
+E:\work\游戏配置获取\SheDiaoSetting\obj\Debug\net46\SheDiaoSetting.dll
+E:\work\游戏配置获取\SheDiaoSetting\obj\Debug\net46\SheDiaoSetting.pdb

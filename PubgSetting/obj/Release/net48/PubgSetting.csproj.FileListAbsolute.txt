@@ -1,0 +1,13 @@
+D:\C#\游戏配置获取\PubgSetting\bin\Release\net48\PubgSetting.dll
+D:\C#\游戏配置获取\PubgSetting\bin\Release\net48\PubgSetting.pdb
+D:\C#\游戏配置获取\PubgSetting\bin\Release\net48\Com.YTDB.IniOperation.dll
+D:\C#\游戏配置获取\PubgSetting\bin\Release\net48\Com.YTDB.JLAI.GameConfigurations.dll
+D:\C#\游戏配置获取\PubgSetting\bin\Release\net48\Newtonsoft.Json.dll
+D:\C#\游戏配置获取\PubgSetting\obj\Release\net48\PubgSetting.csproj.AssemblyReference.cache
+D:\C#\游戏配置获取\PubgSetting\obj\Release\net48\PubgSetting.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\游戏配置获取\PubgSetting\obj\Release\net48\PubgSetting.AssemblyInfoInputs.cache
+D:\C#\游戏配置获取\PubgSetting\obj\Release\net48\PubgSetting.AssemblyInfo.cs
+D:\C#\游戏配置获取\PubgSetting\obj\Release\net48\PubgSetting.csproj.CoreCompileInputs.cache
+D:\C#\游戏配置获取\PubgSetting\obj\Release\net48\PubgSett.27B45CCD.Up2Date
+D:\C#\游戏配置获取\PubgSetting\obj\Release\net48\PubgSetting.dll
+D:\C#\游戏配置获取\PubgSetting\obj\Release\net48\PubgSetting.pdb

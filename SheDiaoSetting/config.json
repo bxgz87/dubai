@@ -1,0 +1,8 @@
+{
+  "Version": "10000",
+  "GameName": "射雕",
+  "Title": "射雕设置",
+  "Author": "精灵AI",
+  "Notes": "",
+  "MainDLL": "SheDiaoSetting.dll"
+}
